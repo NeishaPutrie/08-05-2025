@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class BelanjaBarengNeisha {
+public class BelanjaBarangNeisha {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -20,5 +20,6 @@ public class BelanjaBarengNeisha {
         System.out.println("Harga Barang 2: "+harga2);
         System.out.println("========================");
     }
+
 
 }
